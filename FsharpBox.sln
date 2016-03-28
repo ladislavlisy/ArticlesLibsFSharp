@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FsharpBox", "FsharpBox\FsharpBox.fsproj", "{43FF0BB8-D94E-4EB5-AA1F-EA2ED659CA98}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FSharpTest", "FSharpTest\FSharpTest.fsproj", "{E62DA451-EAB6-4329-8E28-DA96B1EE433B}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FsharpLibs", "FsharpLibs\FsharpLibs.fsproj", "{713594B5-FB54-48B3-B32C-3668EC16416A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FF0BB8-D94E-4EB5-AA1F-EA2ED659CA98}.Debug|x86.ActiveCfg = Debug|x86
+		{43FF0BB8-D94E-4EB5-AA1F-EA2ED659CA98}.Debug|x86.Build.0 = Debug|x86
+		{43FF0BB8-D94E-4EB5-AA1F-EA2ED659CA98}.Release|x86.ActiveCfg = Release|x86
+		{43FF0BB8-D94E-4EB5-AA1F-EA2ED659CA98}.Release|x86.Build.0 = Release|x86
+		{713594B5-FB54-48B3-B32C-3668EC16416A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{713594B5-FB54-48B3-B32C-3668EC16416A}.Debug|x86.Build.0 = Debug|Any CPU
+		{713594B5-FB54-48B3-B32C-3668EC16416A}.Release|x86.ActiveCfg = Release|Any CPU
+		{713594B5-FB54-48B3-B32C-3668EC16416A}.Release|x86.Build.0 = Release|Any CPU
+		{E62DA451-EAB6-4329-8E28-DA96B1EE433B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E62DA451-EAB6-4329-8E28-DA96B1EE433B}.Debug|x86.Build.0 = Debug|Any CPU
+		{E62DA451-EAB6-4329-8E28-DA96B1EE433B}.Release|x86.ActiveCfg = Release|Any CPU
+		{E62DA451-EAB6-4329-8E28-DA96B1EE433B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
